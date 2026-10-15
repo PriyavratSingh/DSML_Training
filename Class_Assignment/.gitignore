@@ -1,0 +1,24 @@
+# ===== Assignment Original Files =====
+# Word document (assignment instructions)
+Loan_Default_Class_Assignment.docx
+
+# ===== Python / Jupyter =====
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# ===== OS Generated =====
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===== Build Scripts / Temp =====
+build_notebook.py
